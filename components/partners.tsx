@@ -37,14 +37,6 @@ export default function Partners() {
       logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/NDF.jpg-Z7jCSconpKGWrwyz9IAL1sDbQNqLOz.jpeg",
     },
     {
-      name: "Mindset",
-      logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/mindset-logo-zeaXdBIJ4NEb1G9B7rfi50AbpS4KKy.png",
-    },
-    {
-      name: "Vamma Tech",
-      logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/vamma_tech_logo-removebg-preview-SQN7KVq2xF89ouwrhr4yOjffaMKvbE.png",
-    },
-    {
       name: "BAR Aviation",
       logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bar%20aviation-O6ud3LWn50bzQU9xpQtDfiaNw2MazA.png",
     },

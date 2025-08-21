@@ -40,25 +40,18 @@ export default function TeamSection() {
       number: 2,
     },
     {
-      name: "Valentine Masicha",
-      role: "Head of Technology and AI Automation Lead",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/val.jpg-L9cL7KyEBfofyDYnbs6ycAkuTF4zWa.jpeg",
-      bio: "Managing technology infrastructure and leading AI automation initiatives.",
-      number: 3,
-    },
-    {
       name: "Tumusuute Nanazibwa",
       role: "Program Director / Wake up Burner Radio Host",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Tumu.jpg-48g2BWWugSR8viNYc1pBuFT2f8OsP3.jpeg",
       bio: "Directing our radio programs and hosting the Wake up Burner show.",
-      number: 4,
+      number: 3,
     },
     {
       name: "David Namara",
       role: "Radio Host / Head of Tech East Africa",
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/David.jpg-Q5NNwizn73QaM26ofnPmc6ALzkvEUq.jpeg",
       bio: "Hosting the Burn Drive Show and leading tech initiatives in East Africa.",
-      number: 5,
+      number: 4,
     },
     {
       name: "Alvin Michale Mulumba",
@@ -66,7 +59,7 @@ export default function TeamSection() {
       image:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Alvin_michael-removebg-preview%20%281%29-tYdBVCfeMeIoMpvtcsvsGrZTpWTz1n.png",
       bio: "Managing talent acquisition and school partnerships.",
-      number: 6,
+      number: 5,
     },
     {
       name: "Gerald Odur",
@@ -74,7 +67,7 @@ export default function TeamSection() {
       image:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/gerald-removebg-preview-Uc72iBxsQZ8Mjy0X1JbXnMfS0JvVia-Bn0AU8NM12d0HuVzt7I5NRJpFfZaFu.png",
       bio: "Overseeing all technical aspects of our broadcasting and digital platforms.",
-      number: 7,
+      number: 6,
     },
     {
       name: "Adrene Atuhaire",
@@ -82,7 +75,7 @@ export default function TeamSection() {
       image:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/andrean.jpg-wJe5z0vasqiCBv57III8ZxVzhpxapu-7kNKqTuxtBPH5DWPZfuSqdiWcPs4sI.jpeg",
       bio: "Coordinating youth programs and hosting radio shows.",
-      number: 8,
+      number: 7,
     },
   ]
 

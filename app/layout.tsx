@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Burn Radio - Broadcasting, Digital Skills & Media Training",
   description:
     "Burn Radio is a multimedia technology and broadcasting company empowering young creatives with critical minds through broadcasting, digital skill training and academic assistance.",
-    generator: 'v0.dev'
+    generator: 'v0.app'
 }
 
 export default function RootLayout({
